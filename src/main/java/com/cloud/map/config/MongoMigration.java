@@ -1,5 +1,7 @@
-package com.cloud.map.map;
+package com.cloud.map.config;
 
+import com.cloud.map.model.MarkerEntity;
+import com.cloud.map.repo.MarkerRepo;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Value;

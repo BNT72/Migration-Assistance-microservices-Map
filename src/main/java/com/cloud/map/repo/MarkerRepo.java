@@ -1,5 +1,7 @@
-package com.cloud.map.map;
+package com.cloud.map.repo;
 
+import com.cloud.map.model.EMarkerType;
+import com.cloud.map.model.MarkerEntity;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Flux;

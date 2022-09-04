@@ -1,5 +1,6 @@
-package com.cloud.map.map;
+package com.cloud.map.dto;
 
+import com.cloud.map.model.MarkerEntity;
 import lombok.Getter;
 import lombok.Setter;
 

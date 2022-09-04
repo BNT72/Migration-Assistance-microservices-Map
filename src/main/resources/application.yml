@@ -23,4 +23,3 @@ eureka:
 
 mongo:
   migration: map/src/main/resources/mongo/migration/MigrationMap.json
-  url: mongodb://localhost:27017/mongo
